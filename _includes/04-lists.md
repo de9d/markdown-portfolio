@@ -1,11 +1,11 @@
 ### Ordered list:
 1. :wink:
 2. :star:
-  1. :star2:
-  2. :dizzy:
+    1. :star2:
+    2. :dizzy:
 3. :poop:
-  1. :hankey:
-  2. :shit:
+    1. :hankey:
+    2. :shit:
   
 ### Unordered list:
 * :turtle:
